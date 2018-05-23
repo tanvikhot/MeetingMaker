@@ -2,7 +2,7 @@
 
 ## Built using:
 
-* sparkJava http://sparkjava.com
-* bootstrap http://getbootstrap.com
-* gradle http://gradle.org
-* jquery http://jquery.org
+* Spark http://sparkjava.com
+* Bootstrap http://getbootstrap.com
+* Gradle http://gradle.org
+* Jquery http://jquery.org
